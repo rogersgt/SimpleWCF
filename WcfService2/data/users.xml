@@ -14,10 +14,4 @@
     <firstname>Tyler</firstname>
     <lastname>Brown</lastname>
   </user>
-  <user admin="false">
-    <username />
-    <password>test</password>
-    <firstname>test</firstname>
-    <lastname>test</lastname>
-  </user>
 </Users>
