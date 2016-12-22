@@ -1,0 +1,7 @@
+\\usrdcdat00\profile$\rogersg\Documents\code\WcfService2\WcfService2\bin\WcfService2.dll
+\\usrdcdat00\profile$\rogersg\Documents\code\WcfService2\WcfService2\bin\WcfService2.pdb
+\\usrdcdat00\profile$\rogersg\Documents\code\WcfService2\WcfService2\obj\Debug\WcfService2.dll
+\\usrdcdat00\profile$\rogersg\Documents\code\WcfService2\WcfService2\obj\Debug\WcfService2.pdb
+\\usrdcdat00\profile$\rogersg\Documents\code\WcfService2\WcfService2\obj\Debug\WcfService2.csprojResolveAssemblyReference.cache
+\\usrdcdat00\profile$\rogersg\Documents\code\WcfService2\WcfService2\obj\Debug\SimpleService.Properties.Resources.resources
+\\usrdcdat00\profile$\rogersg\Documents\code\WcfService2\WcfService2\obj\Debug\WcfService2.csproj.GenerateResource.Cache

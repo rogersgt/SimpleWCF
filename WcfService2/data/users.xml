@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <user admin="true">
+    <ID>98376</ID>
+    <username>JDoe42</username>
+    <password>Password123</password>
+    <firstname>John</firstname>
+    <lastname>Doe</lastname>
+  </user>
+  <user admin="false">
+    <ID>78376</ID>
+    <username>TBrown11</username>
+    <password>Password124</password>
+    <firstname>Tyler</firstname>
+    <lastname>Brown</lastname>
+  </user>
+  <user admin="false">
+    <username />
+    <password>test</password>
+    <firstname>test</firstname>
+    <lastname>test</lastname>
+  </user>
+</Users>
